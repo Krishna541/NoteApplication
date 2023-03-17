@@ -1,0 +1,15 @@
+
+<resources>
+    <string name="app_name">Note Application</string>
+
+    <string name="floating_action_button_add_notes">Floating Action Button Add Notes</string>
+    <string name="image_no_data">Image No Data</string>
+    <string name="no_notes_data">Please create Note</string>
+    <string name="title">TO Do Title</string>
+    <string name="to_do">To Do Description here..</string>
+    <string name="check_add">Check Add</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete All</string>
+
+</resources>
